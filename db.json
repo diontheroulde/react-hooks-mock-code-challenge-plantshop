@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Tree",
+      "image": "https://www.gardeningknowhow.com/wp-content/uploads/2014/06/orange-tree.jpg",
+      "price": 1,
+      "id": 8
     }
   ]
 }
